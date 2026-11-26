@@ -1,6 +1,6 @@
 # EASYMCP — ChatGPT Connector for Shopify
 
-Connect Claude to your Shopify store. Describe any change — it goes live in seconds.
+Connect ChatGPT to your Shopify store. Describe any change — it goes live in seconds.
 
 ## What it does
 
@@ -17,7 +17,7 @@ No code. No developer. No drag-and-drop.
 
 ## MCP Registry
 
-Listed on the official Anthropic MCP Registry:
+Listed on the official MCP Registry:
 `io.github.anderseen-digital/easymcp-chagpt-shopify-connector`
 
 ## License
