@@ -13,7 +13,7 @@ No code. No developer. No drag-and-drop.
 
 ## Install
 
-👉 [easymcp.net](https://www.easymcp.net) — free 30-day trial, from €3.90/month
+👉 [easymcp.net](https://easymcp.net) — free 30-day trial, from €3.90/month
 
 ## MCP Registry
 
